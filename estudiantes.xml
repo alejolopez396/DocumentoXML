@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+	<estudiantes>
+		<registro>
+			<Identificacion>1</Identificacion>
+			<pri_nom>Charlie</pri_nom>
+			<seg_nom>Alejandro</seg_nom>
+			<pri_ape>Lopez</pri_ape>
+			<seg_ape>Vivas</seg_ape>
+			<genero>Masculino</genero>
+			<telefono>990990981</telefono>
+			<direccion>Treboles del sur</direccion>
+		</registro>
+		<registro>
+			<Identificacion>2</Identificacion>
+			<pri_nom>Francisco</pri_nom>
+			<seg_nom>Xavier</seg_nom>
+			<pri_ape>Jaramillo</pri_ape>
+			<seg_ape>Gutierrez</seg_ape>
+			<genero>Masculino</genero>
+			<telefono>993731322</telefono>
+			<direccion>El recreo</direccion>
+		</registro>
+	</estudiantes>
